@@ -4,7 +4,7 @@ Student System made with Winforms
 # Functions
 - See list of students
 - Add student
-- Search student by namme
+- Search student by name
 - Edit student's data
 - Delete student
 
